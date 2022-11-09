@@ -4,3 +4,6 @@ lab 1
 # MARCO TEORICO
 # CONCLUSIONES 
 # BIBLIOGRAFIA
+hola]
+das
+si se escribio?
