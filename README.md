@@ -1,2 +1,6 @@
 # Laboratorio-Informe-1
 lab 1
+# OBJETIVOS
+# MARCO TEORICO
+# CONCLUSIONES 
+# BIBLIOGRAFIA
