@@ -1,9 +1,11 @@
 # Laboratorio-Informe-1
 lab 1
 # OBJETIVOS
+
+### OBJETIVO GENERAL
+
+### OBJETIVOS ESPECIFICOS
+
 # MARCO TEORICO
 # CONCLUSIONES 
 # BIBLIOGRAFIA
-hola]
-das
-si se escribio?
