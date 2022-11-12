@@ -15,7 +15,7 @@ Laboratorio Nro:1
 Tema: Leyes de Kirchhoff
 
 
-# OBJETIVOS
+# 1. OBJETIVOS
 
 ### OBJETIVO GENERAL
 •	Analizar mediante las leyes de Kirchhoff las caídas de voltaje y distribución de corriente que se presenta en cualquier circuito.
@@ -32,9 +32,10 @@ Tema: Leyes de Kirchhoff
 •	Diseñar un circuito de practica haciendo uso del simulador Tinkercad, a fin de comprobar los resultados obtenidos de forma analítica.
 
 • Identificar dentro del circuito mixto los conceptos correspondientes a nodo y malla.
+# 2. MARCO TEORICO
 
 
-# PROCEDIMIENTO
+# 3.  PROCEDIMIENTO
 Arme el circuito que se muestra en la figura 1.1 en Thinkercad.
 
 ![image](https://user-images.githubusercontent.com/116813974/201449128-c4d1f706-a9b6-4f09-852d-652dc200f4b2.png)
@@ -73,8 +74,6 @@ Tabla 1.3. Verificación de la LCK.
 ![image](https://user-images.githubusercontent.com/116813974/201449589-0896de04-c2b1-4a1d-a650-72af2c517693.png)
 
 
-
-# MARCO TEORICO
-# CONCLUSIONES 
-# BIBLIOGRAFIA
+# 4. CONCLUSIONES 
+# 5. BIBLIOGRAFIA
 
