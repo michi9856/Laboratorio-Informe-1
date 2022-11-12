@@ -15,7 +15,7 @@ Arme el circuito que se muestra en la figura 1.1 en Thinkercad.
 
 ![image](https://user-images.githubusercontent.com/116813974/201449070-09219654-4dcf-4b05-8922-70a1901f440e.png)
 
-Calculos teoricos
+# Calculos teoricos
 
 ![image](https://user-images.githubusercontent.com/116813974/201449646-fa2c7d4d-d5f3-4a86-85db-9a975a19d75d.png)
 
@@ -24,9 +24,6 @@ Calculos teoricos
 ![image](https://user-images.githubusercontent.com/116813974/201449699-4fd48522-de48-41b8-9709-241047abd5d4.png)
 
 ![image](https://user-images.githubusercontent.com/116813974/201449714-3bc34ec5-017f-430c-87ad-40e28296d839.png)
-
-
-
 
 
 1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
