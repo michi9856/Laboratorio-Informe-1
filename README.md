@@ -6,10 +6,16 @@ lab 1
 
 ### OBJETIVOS ESPECIFICOS
 
+# PROCEDIMIENTO
+Arme el circuito que se muestra en la figura 1.1 en Thinkercad.
+
+![image](https://user-images.githubusercontent.com/116813974/201448849-1cca539e-3c16-4514-aa20-843b01d19498.png)
+
+![image](https://user-images.githubusercontent.com/116813974/201449070-09219654-4dcf-4b05-8922-70a1901f440e.png)
+
+
+
 # MARCO TEORICO
 # CONCLUSIONES 
 # BIBLIOGRAFIA
 
-![image](https://user-images.githubusercontent.com/116761073/200953837-b7c0675f-09e1-4e9d-b75a-bafe920c460c.png)
-
-![image](https://user-images.githubusercontent.com/116761073/200953932-538167a9-8b67-4668-977c-1097a1a2c329.png)
