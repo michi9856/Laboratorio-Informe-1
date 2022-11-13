@@ -75,5 +75,16 @@ Tabla 1.3. Verificación de la LCK.
 
 
 # 4. CONCLUSIONES 
+
+•	En el circuito mixto observamos que la corriente que entro en los nodos 1 y 2 no se almaceno, por el contrario, la corriente se distribuye por las ramas que conforman el nodo. Finalmente, esta observación en conjunto de sus cálculos correspondiente nos permitió demostrar la primera ley de Kirchhoff.
+
+•	Debemos tener en cuenta que la fuente de voltaje empleada para suministrar energía se debe equilibrar con todo lo que se pierde en las caídas de potencial. Los resistores se encargan de absorber la energía, provocando una caída de voltaje, lo cual remite en que los 10 volts de entrada se consuman.
+
+•	Finalmente, aprendimos de manera teórica y experimental que las leyes de Kirchhoff son una herramienta muy útil para analizar los circuitos de manera sencilla. Además, pudimos observar que las trayectorias están compuestas de nodos y mallas, esto nos permitió visualizar el comportamiento de la corriente dentro del circuito.
+
+
 # 5. BIBLIOGRAFIA
 
+•	 McAllister,W. (2020). Las leyes de Kirchhoff.Obtenido de: https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws THOMAS, F. (2007).
+
+•	 Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 2-57). México: Pearson Educación de México, S.A. de C.V.
