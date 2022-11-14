@@ -89,8 +89,10 @@ Tabla 1.3. Verificación de la LCK.
 
 •	Finalmente, aprendimos de manera teórica y experimental que las leyes de Kirchhoff son una herramienta muy útil para analizar los circuitos de manera sencilla. Además, pudimos observar que las trayectorias están compuestas de nodos y mallas, esto nos permitió visualizar el comportamiento de la corriente dentro del circuito.
 
+# 5. VIDEO
 
-# 5. BIBLIOGRAFIA
+
+# 6. BIBLIOGRAFIA
 
 •	 McAllister,W. (2020). Las leyes de Kirchhoff.Obtenido de: https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws THOMAS, F. (2007).
 
