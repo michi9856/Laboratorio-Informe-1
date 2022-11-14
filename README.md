@@ -34,6 +34,13 @@ Tema: Leyes de Kirchhoff
 • Identificar dentro del circuito mixto los conceptos correspondientes a nodo y malla.
 # 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/116761073/201746229-85ba4c56-4dd7-4325-96f2-7646c8f28986.png)
+
+![image](https://user-images.githubusercontent.com/116761073/201746360-471481f0-2c26-43aa-9b12-f14f64fd6c5d.png)
+
+ANÁLISIS DE CIRCUITOS DE LA PRÁCTICA. 
+
+Dicho circuito es mixto, de modo que la suma de sus resistencias es diferente en cada malla. Sabemos que si el flujo de corriente en una de las malla es paralelo tal que el amperaje es el mismo para las dos resistencias, pero si el flujo de la corriente es en serie el voltaje es el mismo y la corriente baria. El calculo de corriente es importante para que no exista un aumento o descenso de energia en el circuito, causando cortocircuitos o un mal funcionamiento.
 
 # 3.  PROCEDIMIENTO
 Arme el circuito que se muestra en la figura 1.1 en Thinkercad.
