@@ -6,7 +6,7 @@ Integrantes:
 
 •	
 
-•	
+•	Jhon Steven Quingatuña Moreano
 
 •	 Anthony Javier Cevallos Ramirez
 
