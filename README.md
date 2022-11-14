@@ -4,7 +4,7 @@ Fundamentos de Circuitos Eléctricos
 
 Integrantes:
 
-•	
+•	Michael Bryan Toroche Quishpe 
 
 •	Jhon Steven Quingatuña Moreano
 
