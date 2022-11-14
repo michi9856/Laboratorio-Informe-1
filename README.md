@@ -8,7 +8,7 @@ Integrantes:
 
 •	
 
-•	
+•	 Anthony Javier Cevallos Ramirez
 
 Laboratorio Nro:1
 
